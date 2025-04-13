@@ -19,7 +19,6 @@ A fun and interactive jokes app built with React that fetches random jokes from 
 ## 🖼️ Preview
 
 ![App Screenshot](./public/assets/images/screenshot.png)  
-_Replace with your actual screenshot_
 
 ---
 
